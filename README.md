@@ -6,7 +6,7 @@
 > open terminal and run
 >>```node bananaCode.js```
 
-### and for the coding with only ({[/>=!-=\]}) you 2 options 
+### and for the coding with only ({[/>=!-=\]}) you have 2 options 
 * >run the debugger and paste this in its terminal
 >>```fromString("Z")``` 
 >>> and you'll get a capital z using it and to prove it actually is a capital z you can use an 
